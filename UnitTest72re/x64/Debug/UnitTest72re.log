@@ -1,0 +1,33 @@
+﻿  pch.cpp
+  UnitTest72re.cpp
+D:\lab72re\lab72re\lab72re.cpp(45,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\lab72re\lab72re\lab72re.cpp(51,18): warning C4566: character represented by universal-character-name '\u041C' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(51,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(51,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(51,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(51,18): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(51,18): warning C4566: character represented by universal-character-name '\u0446' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(51,18): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0445' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+D:\lab72re\lab72re\lab72re.cpp(55,18): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+     Creating library D:\lab72re\x64\Debug\UnitTest72re.lib and object D:\lab72re\x64\Debug\UnitTest72re.exp
+  UnitTest72re.vcxproj -> D:\lab72re\x64\Debug\UnitTest72re.dll
